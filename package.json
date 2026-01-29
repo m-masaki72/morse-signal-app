@@ -1,0 +1,28 @@
+{
+  "name": "morse-signal-app",
+  "version": "1.0.0",
+  "description": "モールス信号変換・再生・放射状樹形図可視化アプリ（日本語/英語対応）",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "morse-code",
+    "japanese",
+    "visualization",
+    "react",
+    "audio"
+  ],
+  "author": "",
+  "license": "MIT"
+}
