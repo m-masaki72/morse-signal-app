@@ -7,7 +7,9 @@
 
 ## デモ
 
-🌐 **[Live Demo](https://YOUR_USERNAME.github.io/morse-signal-app/)**
+🌐 **[Live Demo](https://m-masaki72.github.io/morse-signal-app/)**
+
+![Morse Code Tree](docs/images/screenshot.png)
 
 ## 特徴
 
@@ -61,7 +63,7 @@ npm run preview
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/morse-signal-app.git
+   git remote add origin https://github.com/m-masaki72/morse-signal-app.git
    git push -u origin main
    ```
 
@@ -75,7 +77,7 @@ npm run preview
 
 5. 公開URL:
    ```
-   https://YOUR_USERNAME.github.io/morse-signal-app/
+   https://m-masaki72.github.io/morse-signal-app/
    ```
 
 ## 技術スタック
