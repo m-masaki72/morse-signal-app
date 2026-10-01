@@ -7,7 +7,7 @@
 
 ## デモ
 
-🌐 **[Live Demo](https://m-masaki72.github.io/morse-signal-app/)**
+🌐 **[Live Demo](https://morse.morilab-garage.com/)**
 
 ![Morse Code Tree](docs/images/screenshot.png)
 
@@ -77,7 +77,7 @@ npm run preview
 
 5. 公開URL:
    ```
-   https://m-masaki72.github.io/morse-signal-app/
+   https://morse.morilab-garage.com/
    ```
 
 ## 技術スタック
