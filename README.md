@@ -108,3 +108,7 @@ MIT License
 ## 作者
 
 Created with Claude AI
+
+## 紹介ページ
+
+- [制作物ページ（Mori Lab）](https://morilab-garage.com/projects/morse-signal-app/)
